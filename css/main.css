@@ -37,12 +37,12 @@ a:hover {
   color: #fff;
 }
 
-.nav {
+nav {
   list-style-type: none;
   padding: 0;
 }
 
-.nav li {
+nav li {
   display: inline-block;
 }
 
@@ -52,7 +52,7 @@ a:hover {
     text-align: left;
   }
 
-  .nav {
+  nav {
     text-align: right;
   }
 
